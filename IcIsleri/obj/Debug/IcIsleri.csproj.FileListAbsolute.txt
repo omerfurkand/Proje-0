@@ -1,0 +1,15 @@
+C:\Users\90505\Desktop\mvcGITHUB\IcIsleri\bin\Debug\IcIsleri.dll.config
+C:\Users\90505\Desktop\mvcGITHUB\IcIsleri\bin\Debug\IcIsleri.dll
+C:\Users\90505\Desktop\mvcGITHUB\IcIsleri\bin\Debug\IcIsleri.pdb
+C:\Users\90505\Desktop\mvcGITHUB\IcIsleri\bin\Debug\EntityFramework.dll
+C:\Users\90505\Desktop\mvcGITHUB\IcIsleri\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90505\Desktop\mvcGITHUB\IcIsleri\bin\Debug\KozmikOda.dll
+C:\Users\90505\Desktop\mvcGITHUB\IcIsleri\bin\Debug\KozmikOda.pdb
+C:\Users\90505\Desktop\mvcGITHUB\IcIsleri\bin\Debug\KozmikOda.dll.config
+C:\Users\90505\Desktop\mvcGITHUB\IcIsleri\bin\Debug\EntityFramework.xml
+C:\Users\90505\Desktop\mvcGITHUB\IcIsleri\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90505\Desktop\mvcGITHUB\IcIsleri\obj\Debug\IcIsleri.csproj.AssemblyReference.cache
+C:\Users\90505\Desktop\mvcGITHUB\IcIsleri\obj\Debug\IcIsleri.csproj.CoreCompileInputs.cache
+C:\Users\90505\Desktop\mvcGITHUB\IcIsleri\obj\Debug\IcIsleri.csproj.CopyComplete
+C:\Users\90505\Desktop\mvcGITHUB\IcIsleri\obj\Debug\IcIsleri.dll
+C:\Users\90505\Desktop\mvcGITHUB\IcIsleri\obj\Debug\IcIsleri.pdb

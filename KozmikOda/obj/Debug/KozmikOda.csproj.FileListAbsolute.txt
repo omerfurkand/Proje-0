@@ -1,0 +1,12 @@
+C:\Users\90505\Desktop\mvcGITHUB\KozmikOda\bin\Debug\KozmikOda.dll.config
+C:\Users\90505\Desktop\mvcGITHUB\KozmikOda\bin\Debug\KozmikOda.dll
+C:\Users\90505\Desktop\mvcGITHUB\KozmikOda\bin\Debug\KozmikOda.pdb
+C:\Users\90505\Desktop\mvcGITHUB\KozmikOda\bin\Debug\EntityFramework.dll
+C:\Users\90505\Desktop\mvcGITHUB\KozmikOda\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90505\Desktop\mvcGITHUB\KozmikOda\bin\Debug\EntityFramework.xml
+C:\Users\90505\Desktop\mvcGITHUB\KozmikOda\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90505\Desktop\mvcGITHUB\KozmikOda\obj\Debug\KozmikOda.csproj.AssemblyReference.cache
+C:\Users\90505\Desktop\mvcGITHUB\KozmikOda\obj\Debug\KozmikOda.csproj.CoreCompileInputs.cache
+C:\Users\90505\Desktop\mvcGITHUB\KozmikOda\obj\Debug\KozmikOda.csproj.CopyComplete
+C:\Users\90505\Desktop\mvcGITHUB\KozmikOda\obj\Debug\KozmikOda.dll
+C:\Users\90505\Desktop\mvcGITHUB\KozmikOda\obj\Debug\KozmikOda.pdb
